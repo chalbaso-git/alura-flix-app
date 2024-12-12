@@ -19,13 +19,13 @@ Alura Flix App es una aplicación para gestionar y visualizar una colección de 
 
 1. Clona el repositorio:
         ```bash
-        git clone https://github.com/chalbaso/alura-flix-app.git
+        git clone https://github.com/chalbaso-git/alura-flix-app.git
         ```
-2. Navega al directorio del proyecto:
+3. Navega al directorio del proyecto:
         ```bash
         cd alura-flix-app
         ```
-3. Instala las dependencias:
+4. Instala las dependencias:
         ```bash
         npm install
         ```
